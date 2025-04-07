@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         YouTube A/B Loop
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Set points A and B to loop specific parts of YouTube videos
 // @author       TeMPOraL, mostly via Claude 3.7 Sonnet
 // @match        https://www.youtube.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
 // @source       https://github.com/TeMPOraL/tampermonkey-scripts
 // @downloadURL  https://raw.githubusercontent.com/TeMPOraL/tampermonkey-scripts/refs/heads/master/src/youtube-a-b-loop.js
