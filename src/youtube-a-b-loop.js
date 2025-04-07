@@ -7,6 +7,7 @@
 // @match        https://www.youtube.com/*
 // @grant        none
 // @source       https://github.com/TeMPOraL/tampermonkey-scripts
+// @downloadURL  https://raw.githubusercontent.com/TeMPOraL/tampermonkey-scripts/refs/heads/master/src/youtube-a-b-loop.js
 // ==/UserScript==
 
 (function() {

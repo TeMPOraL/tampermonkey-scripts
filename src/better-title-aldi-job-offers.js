@@ -9,6 +9,7 @@
 // @grant        none
 // @tag          jobSearch2024
 // @source       https://github.com/TeMPOraL/tampermonkey-scripts
+// @downloadURL  https://raw.githubusercontent.com/TeMPOraL/tampermonkey-scripts/refs/heads/master/src/better-title-aldi-job-offers.js
 // ==/UserScript==
 
 (function() {
